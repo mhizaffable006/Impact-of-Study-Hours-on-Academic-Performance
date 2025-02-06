@@ -62,7 +62,7 @@ Key Findings
 7.  Comparison by Gender:
    - The majority of students (196) who study 2-6 hours per day are male
     
-   ![image](https://github.com/user-attachments/assets/85c5f421-f3f6-48a1-907a-0593a6ae4d2b)
+     ![image](https://github.com/user-attachments/assets/85c5f421-f3f6-48a1-907a-0593a6ae4d2b)
 
 
 # Conclusion
@@ -70,6 +70,7 @@ The analysis suggests that moderate study hours (2-6 hours per day) are the most
 This report provides useful insights for educators and students looking to optimize study strategies for better performance.
 
    ![image](https://github.com/user-attachments/assets/f93d6f31-a9cc-4db3-b509-dec1069701c1)
+   
    ![image](https://github.com/user-attachments/assets/ce6ea9ad-12ff-441b-b625-f82e6b534d1e)
 
 
